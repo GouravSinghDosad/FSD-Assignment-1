@@ -1,6 +1,10 @@
 body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
     font-family: 'Times New Roman', Times, serif, sans-serif;
     font-size: 16px;
+    flex-wrap: nowrap;
 }
 
 table {
